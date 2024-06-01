@@ -26,31 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - **Content Management Systems (CMS)**
 - **Creating Web Servers and Access Points on Raspberry Pis**
 
-## 📚 Notable Projects
 
-### [Project 1: Yii 2 Framework Based Application](https://github.com/esdy/project-1)
-A comprehensive web application built using the Yii 2 Framework, featuring:
-- User authentication and authorization
-- CRUD operations
-- RESTful API integration
-
-### [Project 2: Spring Boot Microservices](https://github.com/esdy/project-2)
-A microservices architecture application using Spring Boot, highlighting:
-- Service discovery and registration
-- API Gateway
-- Circuit breaker pattern implementation
-
-### [Project 3: Web Scraping with Node.js](https://github.com/esdy/project-3)
-A Node.js application designed for web scraping, featuring:
-- Data extraction from multiple websites
-- Data parsing and storage
-- Automated scraping with scheduling
-
-### [Project 4: Web Server and Access Point on Raspberry Pi](https://github.com/esdy/project-4)
-A project demonstrating how to set up a web server and access point on a Raspberry Pi, including:
-- Configuration of web server software
-- Setting up an access point
-- Deployment of a simple web application
 
 ## 🌱 What I'm Currently Learning
 - Advanced Node.js
@@ -59,7 +35,7 @@ A project demonstrating how to set up a web server and access point on a Raspber
 
 ## 📫 How to Reach Me
 - **Email**: [mail@dwanjala.com](mailto:mail@dwanjala.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://ke.linkedin.com/in/douglas-wanjala)
+- **LinkedIn**: [Douglas Wanjala](https://ke.linkedin.com/in/douglas-wanjala)
 - **Twitter**: [@esdywanjala](https://x.com/esdywanjala)
 
 ## 💬 Let's Connect!
