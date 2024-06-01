@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - **IDEs**: Notepad++, VSCode, IntelliJ IDEA
 - **Build Tools**: Maven
 - **Databases**: MySQL, PostgreSQL, MongoDB
+- **Server Setup & Configuration**: Linux-based platforms (AWS, Digital Ocean), private networks, firewall configurations, SSH, VPN setup
 
 ### Areas of Focus
 - **REST APIs**
