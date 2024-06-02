@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 📚 Notable Projects
 
-### [Project 1: Yii 2 Framework Based Application](https://github.com/esdy/projects/3)
+### [Project 1: Yii 2 Framework Based Application](https://github.com/users/esdy/projects/3)
 A comprehensive web application built using the Yii 2 Framework, featuring:
 - User authentication and authorization
 - CRUD operations
