@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ### Programming Languages & Frameworks
 - **PHP** (Expert, 4 years)
-  - Yii 2 Framework
 - **HTML, CSS, JavaScript** (Expert, 8 years)
+  - Yii 2 Framework
 - **Spring Boot** (Advanced, 2 years)
 - **Node.js** (Basic, with web scraping capabilities)
 - **WordPress** (Plugins development and custom templates)
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - **REST APIs**
 - **Content Management Systems (CMS)**
 - **Creating Web Servers and Access Points on Raspberry Pis**
+- **Server Setup and Configuration on Linux-based Platforms**
 
 ## 📚 Notable Projects
 
@@ -52,9 +53,18 @@ A project demonstrating how to set up a web server and access point on a Raspber
 - Setting up an access point
 - Deployment of a simple web application
 --> 
+
+### [Project 2: WordPress Plugin and Template Development](https://github.com/users/esdy/projects/4)
+A project showcasing custom WordPress plugins and templates, featuring:
+- Plugin development for enhanced site functionality
+- Custom templates for optimized performance and user experience
+
+	=> [Esdy Writes Blog](https://blog.dwnanjala.com)
+
+
 ## 🌱 What I'm Currently Learning
 - Advanced Node.js
-- React.js for front-end development
+- Flutter for cross-platform mobile development
 - Kubernetes for container orchestration
 
 ## 📫 How to Reach Me
