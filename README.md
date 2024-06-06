@@ -59,7 +59,7 @@ A project showcasing custom WordPress plugins and templates, featuring:
 - Plugin development for enhanced site functionality
 - Custom templates for optimized performance and user experience
 
-	=> [Esdy Writes Blog](https://blog.dwnanjala.com)
+	=> [Esdy Writes Blog](https://blog.dwanjala.com)
 
 
 ## 🌱 What I'm Currently Learning
